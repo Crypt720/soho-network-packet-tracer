@@ -40,7 +40,8 @@ The network is divided into **3 departments**, each on its own subnet, connected
 
 All inter-subnet and intra-subnet connectivity was verified from **PC1** using `ping` and `tracert`.
 
-![Ping and Tracert Results](Ping_And_Tracert_Log.png)
+![Ping and Tracert Results](Ping%20And%20Tracert%20Log.png)
+
 
 | Test | Source | Destination | Result |
 |---|---|---|---|
