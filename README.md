@@ -30,7 +30,7 @@ The network is divided into **3 departments**, each on its own subnet, connected
 
 ## 🗺️ Topology Diagram
 
-![Network Topology](topology.png)
+![Network Topology](Topology.png)
 
 *Three colour-coded departments connected to a central router — Admin/IT (green), Finance/HR (blue), Reception (magenta)*
 
@@ -40,7 +40,7 @@ The network is divided into **3 departments**, each on its own subnet, connected
 
 All inter-subnet and intra-subnet connectivity was verified from **PC1** using `ping` and `tracert`.
 
-![Ping and Tracert Results](pinging_devices_pmg.png)
+![Ping and Tracert Results](Ping And Tracert Log.png)
 
 | Test | Source | Destination | Result |
 |---|---|---|---|
